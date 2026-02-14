@@ -1,7 +1,7 @@
 ---
 date: "2026-01-08T17:48:22+05:30"
 title: 'Soan Papdi FPGA - Setup Guide'
-thumbnail: "/soanpapdi/sp.jpeg"
+thumbnail: "/posts/soanpapdi-setup/sp.jpeg"
 
 url: /posts/soanpapdi-setup
 alias:
@@ -17,7 +17,7 @@ series:
   - "basics"
 ---
 
-![](/soanpapdi/sp.jpeg "A Quick Guide to getting up and running with the Soan Papdi FPGA board.")
+![](/posts/soanpapdi-setup/sp.jpeg "A Quick Guide to getting up and running with the Soan Papdi FPGA board.")
 
 A quick guide to getting up and running with the Soan Papsi FPGA board.
 
